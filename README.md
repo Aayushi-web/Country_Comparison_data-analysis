@@ -69,7 +69,7 @@ Contributions
 Feel free to fork the repository, improve the analysis, or submit pull requests. Contributions are welcome!
 
 Contact
-For any questions or issues, feel free to open an issue on the GitHub repository or contact me at [your-email@example.com].
+For any questions or issues, feel free to open an issue on the GitHub repository or contact me at [mishraaayushi421@gmail.com].
 
 markdown
 Copy
